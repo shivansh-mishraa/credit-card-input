@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="maximum_cvv_length" />
+    <integer name="expiration_date_length_including_slash" />
+    <integer name="maximum_credit_card_number_length" />
+</resources>
